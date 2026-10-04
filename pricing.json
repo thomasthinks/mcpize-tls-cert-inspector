@@ -1,0 +1,1 @@
+{"plans":[{"name":"Free","overage":null,"price_monthly_usd":0,"quota":"100 tool calls/day"}],"x402":{"applies_to":["inspect_cert","check_expiry_bulk"],"enabled":true,"price_usdc_per_call":0.01}}
