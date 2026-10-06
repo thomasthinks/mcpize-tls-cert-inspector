@@ -21,7 +21,5 @@ pricing:
   tools:
     - name: inspect_cert
       price: "0.01"
-      description: "Perform a live TLS handshake with a publicly reachable host and report the presented certificate: subject CN, issuer, validity window, days …"
     - name: check_expiry_bulk
       price: "0.01"
-      description: "Inspect the TLS certificates of up to 20 hosts at once and get them sorted by days remaining, with critical (<7 days) and warning (<30 days)…"
